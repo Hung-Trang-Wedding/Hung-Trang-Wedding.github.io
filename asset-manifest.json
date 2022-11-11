@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.d0e5fdee.js",
-    "static/js/787.f17e127b.chunk.js": "/static/js/787.f17e127b.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.0171d668.chunk.css",
+    "main.js": "/static/js/main.2d818727.chunk.js",
+    "main.js.map": "/static/js/main.2d818727.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8089bb2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8089bb2.js.map",
+    "static/css/2.80f479d8.chunk.css": "/static/css/2.80f479d8.chunk.css",
+    "static/js/2.dad06334.chunk.js": "/static/js/2.dad06334.chunk.js",
+    "static/js/2.dad06334.chunk.js.map": "/static/js/2.dad06334.chunk.js.map",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.d0e5fdee.js.map": "/static/js/main.d0e5fdee.js.map",
-    "787.f17e127b.chunk.js.map": "/static/js/787.f17e127b.chunk.js.map"
+    "precache-manifest.6e8f200fa61e394dbeb8aab4fcddc9df.js": "/precache-manifest.6e8f200fa61e394dbeb8aab4fcddc9df.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.80f479d8.chunk.css.map": "/static/css/2.80f479d8.chunk.css.map",
+    "static/css/main.0171d668.chunk.css.map": "/static/css/main.0171d668.chunk.css.map",
+    "static/js/2.dad06334.chunk.js.LICENSE.txt": "/static/js/2.dad06334.chunk.js.LICENSE.txt",
+    "static/js/main.2d818727.chunk.js.LICENSE.txt": "/static/js/main.2d818727.chunk.js.LICENSE.txt",
+    "static/media/airplane.jpg": "/static/media/airplane.c0cabd33.jpg",
+    "static/media/deck_with_chicago.jpg": "/static/media/deck_with_chicago.182d144c.jpg",
+    "static/media/Header.module.scss": "/static/media/header_small.0d262033.png",
+    "static/media/orcas.png": "/static/media/orcas.ed06cd33.png",
+    "static/media/sky_diving.jpeg": "/static/media/sky_diving.d80a434f.jpeg",
+    "static/media/snow.png": "/static/media/snow.f704b886.png",
+    "static/media/spain_octopus.jpg": "/static/media/spain_octopus.e126f67d.jpg"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d0e5fdee.js"
+    "static/js/runtime-main.f8089bb2.js",
+    "static/css/2.80f479d8.chunk.css",
+    "static/js/2.dad06334.chunk.js",
+    "static/css/main.0171d668.chunk.css",
+    "static/js/main.2d818727.chunk.js"
   ]
 }
